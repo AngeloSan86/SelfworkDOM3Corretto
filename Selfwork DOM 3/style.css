@@ -1,0 +1,28 @@
+button{
+    width: 150px; 
+    height: 40px; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h2{
+    margin: 0px;
+    font-size: 100px;
+    margin-left: 150px;
+}
+
+input{
+    margin-left: 100px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+h2:hover{
+    cursor: none;
+}
+
+.delayed {
+    transition: all 1s ease;
+  }
